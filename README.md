@@ -1,3 +1,4 @@
 # week4_new
 A test repo for my college lab work
-we belong to school of engineering
+Hi, We are from Shiv Nadar University Chennai!!
+We belong to School of Engineering.
